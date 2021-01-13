@@ -1,4 +1,6 @@
 # test
+
+hihihi
 hi
 workflow "New workflow" {
   on = "push"
